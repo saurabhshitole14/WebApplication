@@ -1,2 +1,2 @@
-# WebApplication Practice Application 
+# Practice Application 
 Basic HTML,CSS, JavaScript
